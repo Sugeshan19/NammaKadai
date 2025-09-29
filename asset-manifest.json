@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/NammaKadai/static/css/main.56416798.css",
+    "main.js": "/NammaKadai/static/js/main.293b600b.js",
+    "static/media/home.png": "/NammaKadai/static/media/home.f9a061596b99f0479dc7.png",
+    "index.html": "/NammaKadai/index.html",
+    "main.56416798.css.map": "/NammaKadai/static/css/main.56416798.css.map",
+    "main.293b600b.js.map": "/NammaKadai/static/js/main.293b600b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56416798.css",
+    "static/js/main.293b600b.js"
+  ]
+}
