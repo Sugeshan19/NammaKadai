@@ -9,7 +9,7 @@ It was built using **HTML** and **CSS** as part of my learning journey in web de
 🔗 [View the Website](# Tribute Page for Missile Man 🚀
 
 This is a simple **tribute webpage** dedicated to Dr. A.P.J. Abdul Kalam, the "Missile Man of India".  
-It was built using **HTML** and **CSS** as part of my learning journey in web development.
+It was built using **HTML** and **CSS** as part of my learning journey in web development
 
 ---
 
