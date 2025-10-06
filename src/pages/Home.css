@@ -1,0 +1,98 @@
+.home-container {
+    text-align: center;
+    padding: 100px 20px;
+    background-color: #fefefe;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: black;
+    background-size: cover;
+    background-position: center;
+    height: 120vh;
+    color: #f8fafa; 
+    text-shadow: 
+    0 0 5px black,
+    0 0 10px pink,
+    0 0 20px #f8fafa,
+    0 0 40px blue,
+    0 0 80px greenyellow;
+  font-weight: bold;
+  }
+  
+  .home-button {
+    margin-top: 20px;
+    background-color: #0070f3;
+    color: white;
+    border: none;
+    padding: 14px 28px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+  
+  .home-button:hover {
+    background-color: #0051aa;
+  }
+
+
+  .footer {
+    background-color: rgb(3, 3, 106); 
+    color: #fff;
+    padding: 20px;
+    
+  }
+  
+  .para{
+    text-align: center;
+  }
+  .social-icons {
+    margin-top: 10px;
+    text-align: left;
+  }
+  
+  .insta-icon {
+    font-size: 18px;
+    color: #e1306c; 
+    transition: transform 0.2s ease;
+  }
+  
+  .insta-icon:hover {
+    transform: scale(1.2);
+    color: #f77737;
+  }
+  
+  .fb-icon {
+    font-size: 18px;
+    color: #1877f2; 
+    transition: transform 0.2s ease;
+  }
+  
+  .fb-icon:hover {
+    transform: scale(1.2);
+    color: blue;
+  }
+  .whatsapp-icon {
+    font-size: 18px;
+    color: #07f90b; 
+    transition: transform 0.2s ease;
+  }
+  
+  .whatsapp-icon:hover {
+    transform: scale(1.2);
+    color: #5fe89d;
+  }
+  .youtube-icon {
+    font-size: 18px;
+    color: #f90707; 
+    transition: transform 0.2s ease;
+  }
+  
+  .youtube-icon:hover {
+    transform: scale(1.2);
+    color: #f1705a;
+  }
+  .footer-text{
+    text-align: right;
+    font-size: 25px;
+  font-weight: bold;
+  
+  }
