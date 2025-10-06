@@ -1,14 +1,13 @@
 {
   "files": {
-    "main.css": "/NammaKadai/static/css/main.56416798.css",
-    "main.js": "/NammaKadai/static/js/main.293b600b.js",
-    "static/media/home.png": "/NammaKadai/static/media/home.f9a061596b99f0479dc7.png",
-    "index.html": "/NammaKadai/index.html",
-    "main.56416798.css.map": "/NammaKadai/static/css/main.56416798.css.map",
-    "main.293b600b.js.map": "/NammaKadai/static/js/main.293b600b.js.map"
+    "main.css": "/shop/static/css/main.d50a3953.css",
+    "main.js": "/shop/static/js/main.ecf067ed.js",
+    "index.html": "/shop/index.html",
+    "main.d50a3953.css.map": "/shop/static/css/main.d50a3953.css.map",
+    "main.ecf067ed.js.map": "/shop/static/js/main.ecf067ed.js.map"
   },
   "entrypoints": [
-    "static/css/main.56416798.css",
-    "static/js/main.293b600b.js"
+    "static/css/main.d50a3953.css",
+    "static/js/main.ecf067ed.js"
   ]
 }
